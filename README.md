@@ -1,4 +1,4 @@
-📊 Maven Toy Store Data Visualization
+📊 Mexico Toy Store Data Visualization
 =====================================
 
 This project focuses on visualizing the sales, revenue, inventory, and other key performance indicators (KPIs) for the Maven Toy Store chain using Power BI. The visualizations provide valuable insights and enable data-driven decision-making for the business.
