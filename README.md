@@ -62,3 +62,7 @@ Based on the visualizations and data provided, here are the key findings and ins
 4. **Inventory Management**: Current inventory levels across all stores suggest a potential shortage to meet the monthly demand for units sold, although the adequacy of stock varies by store location.
 
 5. **Product Sales and Inventory**: The data provides detailed insights into units sold by product, product pricing, and stock on hand, which can be leveraged for inventory optimization, product assortment planning, and pricing strategies.
+
+## 📸 Screenshots
+Screenshot of the dashboard and visualizations to illustrate key insights and features.
+![Toy Store KPI Report](https://github.com/user-attachments/assets/1cf01665-6163-47a1-b0d2-524fcfc30918)
