@@ -65,4 +65,10 @@ Based on the visualizations and data provided, here are the key findings and ins
 
 ## 📸 Screenshots
 Screenshot of the dashboard and visualizations to illustrate key insights and features.
-![Toy Store KPI Report](https://github.com/user-attachments/assets/1cf01665-6163-47a1-b0d2-524fcfc30918)
+<img width="803" alt="Toy Store KPI Report 1" src="https://github.com/user-attachments/assets/cc78e843-90c1-435e-a738-3d3630c9c871">
+
+<img width="958" alt="Toy Store KPI Report 2" src="https://github.com/user-attachments/assets/2d05fece-c299-49b0-b71b-21d7e9184dd4">
+
+<img width="960" alt="Toy Store KPI Report 3" src="https://github.com/user-attachments/assets/e2950fcc-fc70-4465-b718-96dec951e3c4">
+
+
